@@ -1,6 +1,6 @@
 
 
-Added export of `hljs` in `node_modules/\@highlightjs/vue-plugin/src/vue.js`
+Added export of `hljs` in `node_modules/\@highlightjs/vue-plugin/src/vue.js` after `yarn`
 ```
 export default {
   install(Vue) {
