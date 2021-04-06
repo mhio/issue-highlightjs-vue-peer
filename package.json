@@ -1,0 +1,10 @@
+{
+  "name": "highlightjs-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@highlightjs/vue-plugin": "^0.9.0",
+    "highlight.js": "10.7.0"
+  }
+}
